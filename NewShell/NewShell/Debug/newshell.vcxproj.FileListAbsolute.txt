@@ -1,0 +1,2 @@
+C:\Users\toor\source\repos\NewShell\NewShell\Debug\newshell.dll
+C:\Users\toor\source\repos\NewShell\NewShell\Debug\newshell.pdb
